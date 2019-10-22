@@ -1,0 +1,9 @@
+{"dependencies": [
+    {"name": "self", "repository": "?", "weight": 10},
+    {"name": "Ruby", "repository": "https://git.ruby-lang.org/ruby.git", "weight": 1},
+    {"name": "Rubocop", "repository": "https://github.com/rubocop-hq/rubocop.git", "weight": 0.005},
+    {"name": "matkoniecz-ruby-style", "repository": "?", "weight": 0.0005},
+    {"name": "Markdown", "repository": "?", "weight": 1},
+    {"name": "JSON", "repository": "?", "weight": 1}
+]
+} 
